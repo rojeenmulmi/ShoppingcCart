@@ -1,0 +1,97 @@
+@model ProjectInvoice.Models.CustomerDetails
+@using ProjectInvoice.DAL;
+
+
+
+<html>
+<body>
+   <h2><b>Thank You For Shopping. This Is Your Invoice</b></h2> 
+</body>
+</html>
+<div>
+    <h4><u>Shipping Details</u></h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerDetailsID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CustomerDetailsID)
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.firstname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.firstname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.lastname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.lastname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.city)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.city)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.state)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.state)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.zipcode)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.zipcode)
+        </dd>
+       
+        
+        
+    </dl>
+</div>
+<div>
+    <h4><u>Product</u></h4>
+    <hr />
+    <dl class="d1-horizontal">
+       
+        <dt>
+            Item
+        </dt>
+        <dt>
+            Item Id
+        </dt>
+        <dt>
+            Price
+        </dt>
+        
+        <dt>
+            Tax
+        </dt>
+        
+        <dt>
+            Total
+        </dt>
+        
+
+
+    </dl>
+</div><br />
+<div align="center">
+    Contact Information<br />
+     XYZ Electronics<br />
+    2323 Road Street<br />
+    Mobile,Alabama 36887<br />
+    USA<br />
+</div>
+

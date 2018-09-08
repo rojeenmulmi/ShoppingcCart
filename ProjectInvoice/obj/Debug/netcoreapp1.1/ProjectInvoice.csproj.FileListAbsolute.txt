@@ -1,0 +1,9 @@
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\bin\Debug\netcoreapp1.1\ProjectInvoice.deps.json
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\bin\Debug\netcoreapp1.1\ProjectInvoice.runtimeconfig.json
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\bin\Debug\netcoreapp1.1\ProjectInvoice.runtimeconfig.dev.json
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\bin\Debug\netcoreapp1.1\ProjectInvoice.dll
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\bin\Debug\netcoreapp1.1\ProjectInvoice.pdb
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\obj\Debug\netcoreapp1.1\ProjectInvoice.csprojResolveAssemblyReference.cache
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\obj\Debug\netcoreapp1.1\ProjectInvoice.AssemblyInfo.cs
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\obj\Debug\netcoreapp1.1\ProjectInvoice.dll
+c:\users\rojeenmulmi\documents\visual studio 2017\Projects\ProjectInvoice\ProjectInvoice\obj\Debug\netcoreapp1.1\ProjectInvoice.pdb
